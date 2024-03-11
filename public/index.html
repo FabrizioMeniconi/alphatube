@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset='UTF-8'>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+<meta name='keywords' content='video, player, recommendation, youtube, music'>
+<meta name='description' content='A simple recommendation system for music videos'>
+<meta name='subject' content='Recommendation System'>
+<meta name='language' content='EN'>
+<link rel="shortcut icon" href="img/alpha.png" />
+
+<!-- CSS -->
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+
+<!-- Scripts -->
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script src='https://www.youtube.com/iframe_api' async></script>
+<script src="js/YTPlayer.js"></script>
+<script src="js/recommender.js"></script>
+<script src="js/visualizer.js"></script>
+
+</head>
+<body>
+
+  <div class="container">
+
+    <div id="btsearch">
+      <form>
+        <div class="form-row">
+          <div class="col-10">
+            <input type="search" class="form-control" placeholder="Search..." id="formText">
+          </div>
+          <div class="col-2">
+            <button type="button" class="btn btn-primary" id="formButton" onclick="recommenderSearch($('#formText').val())">Search</button>
+          </div>
+        </div>
+      </form>
+    </div>
+
+    <div class="row" id="videoPlayer">
+      <div class="col-8">
+        <div class="row">
+          <div class="col-12">
+            <div id="player"></div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12">
+            <div class="vertical-menu" id="comments">
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <ul class="nav nav-tabs" id="infoTab" role="tablist">
+          <li class="nav-item">
+            <a class="nav-link active" id="info-video-tab" data-toggle="tab" href="#info-video" role="tab" aria-controls="info-video" aria-selected="true">Info</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" id="info-wiki-tab" data-toggle="tab" href="#info-wiki" role="tab" aria-controls="info-wiki" aria-selected="false">Wikipedia</a>
+          </li>
+        </ul>
+        <div class="tab-content" id="infoTabContent">
+          <div class="tab-pane fade show active" id="info-video" role="tabpanel" aria-labelledby="info-video-tab">
+            <h5>Informazioni sul video</h5>
+          </div>
+          <div class="tab-pane fade" id="info-wiki" role="tabpanel" aria-labelledby="info-wiki-tab">
+            <h4>Info da wikipedia</h4>
+            <h6> Nome Artista o Band : </h6>
+            <p><span id="titoloArtista"> Nessun risultato trovato</span></p>
+            <h6> Inizio attività: </h6>
+            <p><span id="bornArtista"> Nessun risultato trovato</span></p>
+            <h6> Dettagli Artista o Band :</h6>
+            <p> <span id="descArtista"> Nessun risultato trovato</span></p>
+            <h6> Titolo canzone :</h6>
+            <p> <span id="titoloCanzone"> Nessun risultato trovato</span></p>
+            <h6> Dettagli Canzone :</h6>
+            <p> <span id="descCanzone"> Nessun risultato trovato</span></p>
+            <h6> Data Rilascio :</h6>
+            <p><span id="dataCanzone"> Nessun risultato trovato</span></p>
+            <h6> Album :</h6>
+            <p><span id="titoloAlbum"> Nessun risultato trovato</span></p>
+            <h6> Dettagli Album : </h6>
+            <p><span id="descAlbum"> Nessun risultato trovato</span></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <ul class="nav nav-tabs" id="recommenderTab" role="tablist">
+      <li class="nav-item">
+        <a class="nav-link active" id="listaIniziale-tab" data-toggle="tab" href="#listaIniziale" role="tab" aria-controls="listaIniziale" aria-selected="true">Lista iniziale</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="related-tab" onclick="recommenderRelated()" href="#related" data-toggle="tab" role="tab" aria-controls="related" aria-selected="false">Related</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="recent-tab" onclick="recommenderRecent()" data-toggle="tab" href="#recent" role="tab" aria-controls="recent" aria-selected="false">Recent</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="search-tab" data-toggle="tab" href="#search" role="tab" aria-controls="search" aria-selected="false">Search</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="fVitali-tab" onclick="recommenderFVitali()" href="#fVitali" data-toggle="tab" role="tab" aria-controls="fVitali" aria-selected="false">FVitali</a>
+      </li>
+
+      <li class="nav-item">
+        <a class="nav-link" id="random-tab" onclick="recommenderRandom()" href="#random" data-toggle="tab" role="tab" aria-controls="random" aria-selected="false">Random</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="similarityArtist-tab" onclick="recommenderSimilarityArtist()" href="#similarityArtist" data-toggle="tab" role="tab" aria-controls="similarityArtist" aria-selected="false">Similarity Artist</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="similarityGenre-tab" onclick="recommenderSimilarityGenre()" href="#similarityGenre" data-toggle="tab" role="tab" aria-controls="similarityGenre" aria-selected="false">Similarity Genre</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="absoluteLocalPopularity-tab" onclick="recommenderAbsoluteLocalPopularity()" href="#absoluteLocalPopularity" data-toggle="tab" role="tab" aria-controls="absoluteLocalPopularity" aria-selected="false">Popolarità Locale</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="relativeLocalPopularity-tab" onclick="recommenderRelativeLocalPopularity()" href="#relativeLocalPopularity" data-toggle="tab" role="tab" aria-controls="relativeLocalPopularity" aria-selected="false">Pololarità Relativa</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" id="globalPopularity-tab" onclick="recommenderGlobalPopularity()" href="#globalPopularity" data-toggle="tab" role="tab" aria-controls="globalPopularity" aria-selected="false">Pololarità Globale</a>
+      </li>
+    </ul>
+
+    <div class="tab-content" id="recommenderTabContent">
+      <div class="tab-pane fade show active" id="listaIniziale" role="tabpanel" aria-labelledby="listaIniziale-tab">.</div>
+      <div class="tab-pane fade" id="recent" role="tabpanel" aria-labelledby="recent-tab">.</div>
+      <div class="tab-pane fade" id="search" role="tabpanel" aria-labelledby="search-tab">
+        <h3>Risultati ricerca</h3><h5>Non hai ancora cercato nulla.</h5>
+      </div>
+      <div class="tab-pane fade" id="fVitali" role="tabpanel" aria-labelledby="fVitali-tab">.</div>
+      <div class="tab-pane fade" id="related" role="tabpanel" aria-labelledby="related-tab">.</div>
+      <div class="tab-pane fade" id="random" role="tabpanel" aria-labelledby="random-tab">.</div>
+      <div class="tab-pane fade" id="similarityArtist" role="tabpanel" aria-labelledby="similarityArtist-tab">.</div>
+      <div class="tab-pane fade" id="similarityGenre" role="tabpanel" aria-labelledby="similarityGenre-tab">.</div>
+      <div class="tab-pane fade" id="absoluteLocalPopularity" role="tabpanel" aria-labelledby="absoluteLocalPopularity-tab">.</div>
+      <div class="tab-pane fade" id="relativeLocalPopularity" role="tabpanel" aria-labelledby="relativeLocalPopularity-tab">.</div>
+      <div class="tab-pane fade" id="globalPopularity" role="tabpanel" aria-labelledby="globalPopularity-tab">.</div>
+    </div>
+
+    <div class="row" id="team-section" role="contentinfo" aria-label="Informazioni sui membri del progetto">
+      <div class="col-md-12">
+        <h1>Developer</h1>
+          <img src="img/siis.png" alt="Foto Fabrizio Meniconi"/>
+          <h3>Fabrizio Meniconi</h3>
+          <h5>0000733331</h5>
+          <p>Studente in Informatica</p>
+          <p>fabrizio.meniconi@studio.unibo.it</p>
+      </div>
+    </div>
+
+  </div>
+
+</body>
+</html>

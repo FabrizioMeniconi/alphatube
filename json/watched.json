@@ -1,0 +1,977 @@
+[
+  {
+    "videoId": "BfOdWSiyWoc",
+    "timesWatched": 27,
+    "search": 0,
+    "fVitali": 1,
+    "random": 23,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 3,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Fry, 28 December 2018, 2:49:7 GMT",
+    "relative": [
+      {
+        "videoId": "LBQ2305fLeA",
+        "timesWatched": 1
+      },
+      {
+        "videoId": "YlUKcNNmywk",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "LBQ2305fLeA",
+    "timesWatched": 25,
+    "search": 0,
+    "fVitali": 0,
+    "random": 24,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 1,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 22:59:43 GMT",
+    "relative": [
+      {
+        "videoId": "TOdo7dhvSwg",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "yRIPU1zZbuk",
+    "timesWatched": 25,
+    "search": 0,
+    "fVitali": 0,
+    "random": 25,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Wed, 26 December 2018, 1:23:42 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "z2hZ9CTLICs",
+    "timesWatched": 23,
+    "search": 0,
+    "fVitali": 0,
+    "random": 23,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 23:10:58 GMT",
+    "relative": [
+      {
+        "videoId": "IwzUs1IMdyQ",
+        "timesWatched": 1
+      },
+      {
+        "videoId": "DpVfF4U75B8",
+        "timesWatched": 1
+      },
+      {
+        "videoId": "kIkpZh_qPm8",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "yYYp5-mGQRI",
+    "timesWatched": 22,
+    "search": 0,
+    "fVitali": 1,
+    "random": 20,
+    "related": 0,
+    "recent": 1,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 23:1:17 GMT",
+    "relative": [
+      {
+        "videoId": "5tGA6bpscj8",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "IwzUs1IMdyQ",
+    "timesWatched": 15,
+    "search": 0,
+    "fVitali": 1,
+    "random": 14,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Wed, 26 December 2018, 1:36:43 GMT",
+    "relative": [
+      {
+        "videoId": "6Ejga4kJUts",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "TOdo7dhvSwg",
+    "timesWatched": 14,
+    "search": 0,
+    "fVitali": 0,
+    "random": 13,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 1,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Wed, 26 December 2018, 1:57:7 GMT",
+    "relative": [
+      {
+        "videoId": "ek2PDE1cAyY",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "sU1whIgDJaA",
+    "timesWatched": 8,
+    "search": 0,
+    "fVitali": 0,
+    "random": 8,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Mon, 24 December 2018, 1:32:44 GMT",
+    "relative": [
+      {
+        "videoId": "JobV2sgtN1w",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "6Ejga4kJUts",
+    "timesWatched": 7,
+    "search": 0,
+    "fVitali": 0,
+    "random": 6,
+    "related": 1,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Wed, 26 December 2018, 1:43:23 GMT",
+    "relative": [
+      {
+        "videoId": "LBQ2305fLeA",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "PoSbnAFvqfA",
+    "timesWatched": 6,
+    "search": 0,
+    "fVitali": 0,
+    "random": 6,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Mon, 24 December 2018, 16:9:7 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "iWPHy-NfAW0",
+    "timesWatched": 6,
+    "search": 0,
+    "fVitali": 0,
+    "random": 6,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 17:22:7 GMT",
+    "relative": [
+      {
+        "videoId": "z2hZ9CTLICs",
+        "timesWatched": 1
+      },
+      {
+        "videoId": "ckdsJ-LaCvM",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "5tGA6bpscj8",
+    "timesWatched": 5,
+    "search": 0,
+    "fVitali": 0,
+    "random": 5,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 23:0:32 GMT",
+    "relative": [
+      {
+        "videoId": "6vOUYry_5Nw",
+        "timesWatched": 1
+      },
+      {
+        "videoId": "LBQ2305fLeA",
+        "timesWatched": 1
+      },
+      {
+        "videoId": "yYYp5-mGQRI",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "NtypQ0skiug",
+    "timesWatched": 4,
+    "search": 0,
+    "fVitali": 0,
+    "random": 4,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Mon, 24 December 2018, 3:4:31 GMT",
+    "relative": [
+      {
+        "videoId": "BfOdWSiyWoc",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "ek2PDE1cAyY",
+    "timesWatched": 4,
+    "search": 0,
+    "fVitali": 0,
+    "random": 4,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Wed, 26 December 2018, 2:12:47 GMT",
+    "relative": [
+      {
+        "videoId": "ZZjnfWx0cvw",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "EvnRC7tSX50",
+    "timesWatched": 4,
+    "search": 0,
+    "fVitali": 0,
+    "random": 4,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Wed, 26 December 2018, 3:29:46 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "f1LUbw9io8I",
+    "timesWatched": 4,
+    "search": 0,
+    "fVitali": 1,
+    "random": 0,
+    "related": 0,
+    "recent": 2,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 1,
+    "prevalentReason": "recent",
+    "lastSelected": "Thu, 27 December 2018, 23:16:57 GMT",
+    "relative": [
+      {
+        "videoId": "5EDBbXkX8Hw",
+        "timesWatched": 2
+      },
+      {
+        "videoId": "BfOdWSiyWoc",
+        "timesWatched": 2
+      },
+      {
+        "videoId": "HgzGwKwLmgM",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "ZZjnfWx0cvw",
+    "timesWatched": 3,
+    "search": 2,
+    "fVitali": 0,
+    "random": 1,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "search",
+    "lastSelected": "Thu, 27 December 2018, 18:9:36 GMT",
+    "relative": [
+      {
+        "videoId": "z2hZ9CTLICs",
+        "timesWatched": 2
+      }
+    ]
+  },
+  {
+    "videoId": "JobV2sgtN1w",
+    "timesWatched": 3,
+    "search": 0,
+    "fVitali": 0,
+    "random": 3,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Mon, 24 December 2018, 1:39:20 GMT",
+    "relative": [
+      {
+        "videoId": "wtmKJQonIKc",
+        "timesWatched": 2
+      }
+    ]
+  },
+  {
+    "videoId": "hVp03p6HP7Q",
+    "timesWatched": 3,
+    "search": 0,
+    "fVitali": 1,
+    "random": 2,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Mon, 24 December 2018, 17:27:10 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "NWMiBj0yDJg",
+    "timesWatched": 3,
+    "search": 0,
+    "fVitali": 0,
+    "random": 3,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Fry, 28 December 2018, 2:41:24 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "a2JcK-pbhrw",
+    "timesWatched": 2,
+    "search": 0,
+    "fVitali": 0,
+    "random": 2,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Mon, 24 December 2018, 17:9:45 GMT",
+    "relative": [
+      {
+        "videoId": "hVp03p6HP7Q",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "XbGs_qK2PQA",
+    "timesWatched": 2,
+    "search": 0,
+    "fVitali": 0,
+    "random": 2,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Mon, 24 December 2018, 1:40:53 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "VOgFZfRVaww",
+    "timesWatched": 2,
+    "search": 0,
+    "fVitali": 0,
+    "random": 2,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 17:49:36 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "rzeLynj1GYM",
+    "timesWatched": 2,
+    "search": 0,
+    "fVitali": 0,
+    "random": 2,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Mon, 24 December 2018, 17:40:7 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "fGqiBFqWCTU",
+    "timesWatched": 2,
+    "search": 0,
+    "fVitali": 0,
+    "random": 2,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Mon, 24 December 2018, 17:41:23 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "L_jWHffIx5E",
+    "timesWatched": 2,
+    "search": 0,
+    "fVitali": 1,
+    "random": 1,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "fVitali",
+    "lastSelected": "Thu, 27 December 2018, 23:6:48 GMT",
+    "relative": [
+      {
+        "videoId": "f1LUbw9io8I",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "JHdmkP-nfsA",
+    "timesWatched": 2,
+    "search": 0,
+    "fVitali": 0,
+    "random": 2,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 23:9:51 GMT",
+    "relative": [
+      {
+        "videoId": "EJmRU9vOsgo",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "HgzGwKwLmgM",
+    "timesWatched": 2,
+    "search": 0,
+    "fVitali": 0,
+    "random": 1,
+    "related": 1,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Wed, 26 December 2018, 2:44:5 GMT",
+    "relative": [
+      {
+        "videoId": "fJ9rUzIMcZQ",
+        "timesWatched": 1
+      },
+      {
+        "videoId": "yYYp5-mGQRI",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "5EDBbXkX8Hw",
+    "timesWatched": 2,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 2,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "related",
+    "lastSelected": "Thu, 27 December 2018, 23:12:46 GMT",
+    "relative": [
+      {
+        "videoId": "kVpv8-5XWOI",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "cD1Yd36GUsk",
+    "timesWatched": 2,
+    "search": 0,
+    "fVitali": 0,
+    "random": 2,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 23:15:28 GMT",
+    "relative": [
+      {
+        "videoId": "f1LUbw9io8I",
+        "timesWatched": 2
+      }
+    ]
+  },
+  {
+    "videoId": "wtmKJQonIKc",
+    "timesWatched": 2,
+    "search": 0,
+    "fVitali": 0,
+    "random": 2,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Mon, 24 December 2018, 1:39:45 GMT",
+    "relative": [
+      {
+        "videoId": "XbGs_qK2PQA",
+        "timesWatched": 2
+      }
+    ]
+  },
+  {
+    "videoId": "fJ9rUzIMcZQ",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 1,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "related",
+    "lastSelected": "Wed, 26 December 2018, 2:46:4 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "cSgxh4SWZ5g",
+    "timesWatched": 1,
+    "search": 1,
+    "fVitali": 0,
+    "random": 0,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "search",
+    "lastSelected": "Thu, 27 December 2018, 18:1:51 GMT",
+    "relative": [
+      {
+        "videoId": "ZZjnfWx0cvw",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "DpVfF4U75B8",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 1,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "similarityGenre",
+    "lastSelected": "Thu, 27 December 2018, 18:10:58 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "kIkpZh_qPm8",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 1,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "similarityGenre",
+    "lastSelected": "Thu, 27 December 2018, 18:12:43 GMT",
+    "relative": [
+      {
+        "videoId": "Id6fyY8CUkk",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "Id6fyY8CUkk",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 1,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "similarityArtist",
+    "lastSelected": "Thu, 27 December 2018, 18:13:15 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "gY5rztWa1TM",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 1,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 18:37:18 GMT",
+    "relative": [
+      {
+        "videoId": "HQmmM_qwG4k",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "HQmmM_qwG4k",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 1,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "related",
+    "lastSelected": "Thu, 27 December 2018, 18:38:21 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "LjKAQ-zI5Ns",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 1,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Wed, 26 December 2018, 2:21:55 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "6vOUYry_5Nw",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 1,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 22:58:5 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "l51-ebCdCJo",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 1,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 23:3:24 GMT",
+    "relative": [
+      {
+        "videoId": "-erXcx89mcE",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "-erXcx89mcE",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 1,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "related",
+    "lastSelected": "Thu, 27 December 2018, 23:6:4 GMT",
+    "relative": [
+      {
+        "videoId": "L_jWHffIx5E",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "U-1G12wV0c8",
+    "timesWatched": 1,
+    "search": 1,
+    "fVitali": 0,
+    "random": 0,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "search",
+    "lastSelected": "Wed, 26 December 2018, 2:21:26 GMT",
+    "relative": [
+      {
+        "videoId": "LjKAQ-zI5Ns",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "EJmRU9vOsgo",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 1,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "similarityArtist",
+    "lastSelected": "Thu, 27 December 2018, 23:10:16 GMT",
+    "relative": [
+      {
+        "videoId": "ArQAeJKUhc0",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "ArQAeJKUhc0",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 1,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "similarityGenre",
+    "lastSelected": "Thu, 27 December 2018, 23:10:42 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "ckdsJ-LaCvM",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 1,
+    "prevalentReason": "globalPopularity",
+    "lastSelected": "Thu, 27 December 2018, 17:26:26 GMT",
+    "relative": [
+      {
+        "videoId": "BfOdWSiyWoc",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "kVpv8-5XWOI",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 1,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "random",
+    "lastSelected": "Thu, 27 December 2018, 23:12:21 GMT",
+    "relative": []
+  },
+  {
+    "videoId": "YlUKcNNmywk",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 1,
+    "recent": 0,
+    "similarityGenre": 0,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "related",
+    "lastSelected": "Thu, 27 December 2018, 17:28:4 GMT",
+    "relative": [
+      {
+        "videoId": "qM0zINtulhM",
+        "timesWatched": 1
+      }
+    ]
+  },
+  {
+    "videoId": "qM0zINtulhM",
+    "timesWatched": 1,
+    "search": 0,
+    "fVitali": 0,
+    "random": 0,
+    "related": 0,
+    "recent": 0,
+    "similarityGenre": 1,
+    "similarityArtist": 0,
+    "absoluteLocalPopularity": 0,
+    "globalPopularity": 0,
+    "prevalentReason": "similarityGenre",
+    "lastSelected": "Thu, 27 December 2018, 17:28:58 GMT",
+    "relative": []
+  }
+]
